@@ -7,4 +7,4 @@ This repository contains my work for **Module 5 Week B** in the **AISPIRE Applie
 To install the required dependencies, run:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt..
